@@ -43,5 +43,19 @@ Farmers and gardeners often face challenges in identifying plant diseases early.
 - **Language Translation**: `googletrans` (Google Translate API wrapper)  
 - **Image Processing**: TensorFlow preprocessing  
 - **Data**: Custom trained plant disease classification model  
-- **Languages Supported**: English, Hindi, Tamil, Telugu, Malayalam, Kannada, Gujarati, Marathi, Bengali, Punjabi, Spanish, French, Chinese
+- **Languages Supported**: English, Hindi, Tamil, Telugu, Malayalam, Kannada, Gujarati, Marathi, Bengali, Punjabi.
+
+📌 To-Do / Improvements
+ Add severity detection based on lesion size / color
+
+ Upload multiple images at once
+
+ Integrate voice support for non-literate farmers
+
+ Real-time camera-based predictions (mobile deployment)
+
+ 💬 Credits
+Model trained on PlantVillage dataset.
+
+Translation powered by Google Translate API via googletrans.
 
