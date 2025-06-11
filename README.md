@@ -6,8 +6,8 @@ A deep learning-powered web application built using **Streamlit** and **TensorFl
 
 ## 🚀 Live Demo
 
-👉 **[Click Here to View Live Project]((https://plant-disease-recognition-using-cnn.onrender.com))**  
-*(Hosted via Streamlit Cloud / Render / Railway)*
+👉 **[Click Here to View Live Project](https://plant-disease-recognition-using-cnn.onrender.com)**  
+*(Hosted via Render
 
 ---
 
