@@ -45,7 +45,8 @@ Farmers and gardeners often face challenges in identifying plant diseases early.
 - **Data**: Custom trained plant disease classification model  
 - **Languages Supported**: English, Hindi, Tamil, Telugu, Malayalam, Kannada, Gujarati, Marathi, Bengali, Punjabi.
 
-📌 To-Do / Improvements
+## 📌 To-Do / Improvements
+
  Add severity detection based on lesion size / color
 
  Upload multiple images at once
@@ -54,7 +55,8 @@ Farmers and gardeners often face challenges in identifying plant diseases early.
 
  Real-time camera-based predictions (mobile deployment)
 
- 💬 Credits
+ ## 💬 Credits
+ 
 Model trained on PlantVillage dataset.
 
 Translation powered by Google Translate API via googletrans.
